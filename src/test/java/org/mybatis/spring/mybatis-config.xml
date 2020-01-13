@@ -24,7 +24,7 @@
 
     <settings>
         <!-- changes from the defaults for testing -->
-        <setting name="cacheEnabled" value="false" />
+        <setting name="cacheEnabled" value="ture" />
         <setting name="useGeneratedKeys" value="true" />
         <setting name="defaultExecutorType" value="REUSE" />
         <setting name="vfsImpl" value="org.apache.ibatis.io.JBoss6VFS"/>
